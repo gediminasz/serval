@@ -2,11 +2,34 @@
 
 Search for developers.
 
-Sites being searched:
+## D
+
+- djangoproject.com
+
+## G
+
+- github.com
+- gitlab.com
+
+## M
 
 - developer.mozilla.org
-- djangoproject.com
-- en.wikipedia.org
-- github.com
+- docs.microsoft.com
+
+## P
+
+- pypi.org
 - python.org
+
+## R
+
+- readthedocs.io
+
+## S
+
+- stackexchange.com
 - stackoverflow.com
+
+## W
+
+- en.wikipedia.org
