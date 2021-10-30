@@ -1,35 +1,39 @@
 # Serval
 
-Search for developers.
+Search for developers. Powered by Google Programmable Search.
 
-## D
+### D
 
 - djangoproject.com
 
-## G
+### G
 
 - github.com
 - gitlab.com
 
-## M
+### M
 
 - developer.mozilla.org
 - docs.microsoft.com
 
-## P
+### P
 
 - pypi.org
 - python.org
 
-## R
+### R
 
 - readthedocs.io
 
-## S
+### S
 
 - stackexchange.com
 - stackoverflow.com
 
-## W
+### V
+
+- visualstudio.com
+
+### W
 
 - en.wikipedia.org
