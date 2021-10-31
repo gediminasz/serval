@@ -1,6 +1,8 @@
 # Serval
 
-Search for developers. Powered by Google Programmable Search.
+Custom Google Programmable Search engine limited to a curated list of programming related sites.
+
+## List of sites
 
 ### D
 
