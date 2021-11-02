@@ -4,6 +4,14 @@ Custom Google Programmable Search engine limited to a curated list of programmin
 
 ## List of sites
 
+### A
+
+- askubuntu.com
+
+### B
+
+- getbootstrap.com
+
 ### D
 
 - djangoproject.com
@@ -33,8 +41,11 @@ Custom Google Programmable Search engine limited to a curated list of programmin
 
 ### S
 
+- serverfault.com
+- stackexchange.com
 - stackexchange.com
 - stackoverflow.com
+- superuser.com
 
 ### V
 
