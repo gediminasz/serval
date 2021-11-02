@@ -19,6 +19,7 @@ Custom Google Programmable Search engine limited to a curated list of programmin
 ### G
 
 - github.com
+- github.io
 - gitlab.com
 
 ### M
