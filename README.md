@@ -43,6 +43,8 @@ Custom Google Programmable Search engine limited to a curated list of programmin
 ### S
 
 - serverfault.com
+- sqlalchemy.org
+- sqlite.org
 - stackexchange.com
 - stackexchange.com
 - stackoverflow.com
