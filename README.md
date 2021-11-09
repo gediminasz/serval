@@ -15,6 +15,8 @@ Custom Google Programmable Search engine limited to a curated list of programmin
 ### D
 
 - djangoproject.com
+- docker.com
+- dockerhub.com
 
 ### G
 
@@ -42,6 +44,7 @@ Custom Google Programmable Search engine limited to a curated list of programmin
 
 ### S
 
+- saltproject.io
 - serverfault.com
 - sqlalchemy.org
 - sqlite.org
