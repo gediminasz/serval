@@ -4,20 +4,19 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script async src="https://cse.google.com/cse.js?cx=037b73d3d088b4ce8"></script>
     <title>Serval - Search for developers</title>
     <style type="text/css">
-    	body {
-    		font-family: system-ui;
-    	}
+        body {
+            font-family: system-ui;
+        }
 
-    	h1 {
-    		font-weight: normal;
-    	}
+        h1 {
+            font-weight: normal;
+        }
 
-    	a {
-    		text-decoration: none;
-    	}
+        a {
+            text-decoration: none;
+        }
 
         .main {
             display: flex;
@@ -27,8 +26,10 @@
             flex-direction: column;
         }
 
-        .search {
-            min-width: 40vw;
+        input {
+            min-width: 30vw;
+            font-size: medium;
+            padding: 0.3em;
         }
     </style>
 </head>
@@ -38,9 +39,10 @@
         <center>
             <h1>Serval</h1>
         </center>
-        <div class="search">
-            <div class="gcse-searchbox-only"></div>
-        </div>
+        <form action="https://cse.google.com/cse" method="get">
+            <input type="hidden" name="cx" value="037b73d3d088b4ce8">
+            <input type="text" name="q" autofocus>
+        </form>
         <p>
             <a href="https://github.com/gediminasz/serval">about</a>
         </p>
