@@ -39,6 +39,7 @@ Custom Google Programmable Search engine limited to a curated list of programmin
 
 ### P
 
+- pydata.org
 - pypi.org
 - python.org
 
