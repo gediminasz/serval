@@ -88,10 +88,6 @@
         <Label name="_include_"></Label>
         <AdditionalData attribute="original_url" value="{domain}"></AdditionalData>
     </Annotation>
-    <Annotation about="*.stackexchange.com/*" score="1.0">
-        <Label name="_include_"></Label>
-        <AdditionalData attribute="original_url" value="{domain}"></AdditionalData>
-    </Annotation>
     <Annotation about="*.stackoverflow.com/*" score="1.0">
         <Label name="_include_"></Label>
         <AdditionalData attribute="original_url" value="{domain}"></AdditionalData>

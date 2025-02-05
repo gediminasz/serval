@@ -2,6 +2,7 @@ from pathlib import Path
 from string import Template
 
 domains = sorted(Path("domains.txt").read_text().strip().splitlines())
+assert len(domains) == len(set(domains)), "Duplicate domains found"
 
 annotation_template = """
     <Annotation about="*.${domain}/*" score="1.0">
