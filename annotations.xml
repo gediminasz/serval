@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Annotations>
+    <Annotation about="*.pydata.org/*" timestamp="0x0005f3a8f3093149" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="*.pydata.org"></AdditionalData>
+    </Annotation>
+    <Annotation about="developer.mozilla.org/*" timestamp="0x0005d0627a91563f" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="developer.mozilla.org"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.saltproject.io/*" timestamp="0x0005d05da3a120b0" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="saltproject.io"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.dockerhub.com/*" timestamp="0x0005d05d9b9da31e" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="dockerhub.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.docker.com/*" timestamp="0x0005d05d9b2d8780" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="docker.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.sqlite.org/*" timestamp="0x0005d0348e8f5260" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="sqlite.org"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.sqlalchemy.org/*" timestamp="0x0005d0348c6404c5" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="sqlalchemy.org"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.github.io/*" timestamp="0x0005cfce5c3c9a84" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="github.io"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.stackexchange.com/*" timestamp="0x0005cfce4f6459f0" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="stackexchange.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.superuser.com/*" timestamp="0x0005cfce4e91c0b8" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="superuser.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.askubuntu.com/*" timestamp="0x0005cfce4e3a5d87" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="askubuntu.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.serverfault.com/*" timestamp="0x0005cfce46430283" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="serverfault.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.getbootstrap.com/*" timestamp="0x0005cfce442e1a4d" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="getbootstrap.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.nodejs.org/*" timestamp="0x0005cfa4a85a7f02" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="nodejs.org"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.visualstudio.com/*" timestamp="0x0005cf929687efc1" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="visualstudio.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.gitlab.com/*" timestamp="0x0005cf6d6dd328e6" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="gitlab.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.stackexchange.com/*" timestamp="0x0005cf6d6632bdab" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="stackexchange.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.pypi.org/*" timestamp="0x0005cf6d5d0d00f5" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="pypi.org"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.readthedocs.io/*" timestamp="0x0005cf6d5705fb7d" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="readthedocs.io"></AdditionalData>
+    </Annotation>
+    <Annotation about="docs.microsoft.com/*" timestamp="0x0005cf6d4b5e1d08" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="docs.microsoft.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.python.org/*" timestamp="0x0005cf5c4342d27e" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="python.org"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.github.com/*" timestamp="0x0005cf5ae26707bf" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="github.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.djangoproject.com/*" timestamp="0x0005cf5ae1447f31" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="djangoproject.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="*.stackoverflow.com/*" timestamp="0x0005cf5accc6ca87" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="stackoverflow.com"></AdditionalData>
+    </Annotation>
+    <Annotation about="en.wikipedia.org/*" timestamp="0x0005cf5a871de374" score="1.0"><Label name="_include_"></Label>
+        <AdditionalData attribute="original_url" value="en.wikipedia.org"></AdditionalData>
+    </Annotation>
+</Annotations>
